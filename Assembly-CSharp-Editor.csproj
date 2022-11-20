@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Unity-Logs-Viewer-master\Reporter\Editor\ReporterEditor.cs" />
+    <Compile Include="Assets\Editor\ProfilerAPI.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

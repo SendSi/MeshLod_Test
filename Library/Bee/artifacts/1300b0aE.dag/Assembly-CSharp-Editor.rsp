@@ -374,6 +374,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Whinarn.UnityMeshSimplifier.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Whinarn.UnityMeshSimplifier.Runtime.ref.dll"
+"Assets/Editor/ProfilerAPI.cs"
 "Assets/Unity-Logs-Viewer-master/Reporter/Editor/ReporterEditor.cs"
 -langversion:9.0
 /unsafe+
